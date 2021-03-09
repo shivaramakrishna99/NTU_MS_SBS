@@ -25,8 +25,6 @@ for i in range(-1,len(vertices)-1):
 	vertices[i].append(vertices[i+1][0])
 	vertices[i].append(vertices[i+1][1])  #Creating edges from polyon vertices
 
-print(points)
-
 
 
 
